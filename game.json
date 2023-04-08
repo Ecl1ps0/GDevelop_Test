@@ -648,7 +648,14 @@
           ]
         }
       ],
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "message",
+          "type": "string",
+          "value": ""
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -2507,11 +2514,11 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "allowDiagonals": true,
               "ignoreDefaultControls": true,
               "movementAngleOffset": -45,
-              "name": "TopDownMovement",
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "viewpoint": "CustomIsometry",
               "acceleration": 900000,
               "angleOffset": 0,
@@ -3891,78 +3898,7 @@
           "type": "SpriteMultitouchJoystick::SpriteMultitouchJoystick",
           "variables": [],
           "effects": [],
-          "behaviors": [],
-          "content": {},
-          "childrenContent": {
-            "Border": {
-              "updateIfNotVisible": false,
-              "animations": [
-                {
-                  "name": "Idle",
-                  "useMultipleDirections": false,
-                  "directions": [
-                    {
-                      "looping": false,
-                      "timeBetweenFrames": 0.08,
-                      "sprites": [
-                        {
-                          "hasCustomCollisionMask": false,
-                          "image": "Shaded dark joystick border.png",
-                          "points": [],
-                          "originPoint": {
-                            "name": "origine",
-                            "x": 0,
-                            "y": 0
-                          },
-                          "centerPoint": {
-                            "automatic": true,
-                            "name": "centre",
-                            "x": 0,
-                            "y": 0
-                          },
-                          "customCollisionMask": []
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            "Thumb": {
-              "updateIfNotVisible": false,
-              "animations": [
-                {
-                  "name": "Idle",
-                  "useMultipleDirections": false,
-                  "directions": [
-                    {
-                      "looping": false,
-                      "timeBetweenFrames": 0.08,
-                      "sprites": [
-                        {
-                          "hasCustomCollisionMask": false,
-                          "image": "Shaded dark joystick thumb.png",
-                          "points": [],
-                          "originPoint": {
-                            "name": "origine",
-                            "x": 0,
-                            "y": 0
-                          },
-                          "centerPoint": {
-                            "automatic": true,
-                            "name": "centre",
-                            "x": 0,
-                            "y": 0
-                          },
-                          "customCollisionMask": []
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          }
+          "behaviors": []
         },
         {
           "assetStoreId": "e91e41d6c290f6c774e486052d91033556b332dac944b44f4dd0d68692fcbc95",
@@ -4238,26 +4174,6 @@
                         "Player",
                         "w"
                       ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "a"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
-                      ]
                     }
                   ],
                   "actions": [
@@ -4277,6 +4193,58 @@
                       "parameters": [
                         "Player",
                         "\"Up\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "a"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TopDownMovementBehavior::SimulateLeftKey"
+                          },
+                          "parameters": [
+                            "Player",
+                            "TopDownMovement"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "d"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TopDownMovementBehavior::SimulateRightKey"
+                          },
+                          "parameters": [
+                            "Player",
+                            "TopDownMovement"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -4313,6 +4281,58 @@
                         "\"Down\""
                       ]
                     }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "a"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TopDownMovementBehavior::SimulateLeftKey"
+                          },
+                          "parameters": [
+                            "Player",
+                            "TopDownMovement"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "d"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TopDownMovementBehavior::SimulateRightKey"
+                          },
+                          "parameters": [
+                            "Player",
+                            "TopDownMovement"
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
@@ -4325,6 +4345,26 @@
                       "parameters": [
                         "Player",
                         "d"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "w"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
                       ]
                     }
                   ],
@@ -4347,42 +4387,6 @@
                         "\"Right\""
                       ]
                     }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "w",
-                            "w"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "TopDownMovementBehavior::SimulateUpKey"
-                          },
-                          "parameters": [
-                            "Player",
-                            "TopDownMovement"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetAnimationName"
-                          },
-                          "parameters": [
-                            "Player",
-                            "\"Up\""
-                          ]
-                        }
-                      ]
-                    }
                   ]
                 },
                 {
@@ -4395,6 +4399,26 @@
                       "parameters": [
                         "Player",
                         "a"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "w"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
                       ]
                     }
                   ],
@@ -4807,6 +4831,45 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "Space"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"http://192.168.43.50:12347\"",
+                "\"FUCK YOU!\"",
+                "\"GET\"",
+                "",
+                "message",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "VariableString(message)",
+                "",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
