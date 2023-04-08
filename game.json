@@ -747,20 +747,7 @@
     }
   ],
   "objectsGroups": [],
-  "variables": [
-    {
-      "folded": true,
-      "name": "username",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "folded": true,
-      "name": "password",
-      "type": "string",
-      "value": ""
-    }
-  ],
+  "variables": [],
   "layouts": [
     {
       "b": 209,
@@ -5156,7 +5143,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 0.9199999999999938,
+        "zoomFactor": 1.0505096778005851,
         "windowMask": false
       },
       "objectsGroups": [
@@ -5353,6 +5340,21 @@
           "x": 610,
           "y": 275,
           "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 226,
+          "layer": "",
+          "name": "code_input",
+          "persistentUuid": "a4bd8cd1-79f1-4655-919a-e141bc094a06",
+          "width": 458,
+          "x": 403,
+          "y": 62,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5929,7 +5931,7 @@
               "italic": false,
               "smoothed": true,
               "underlined": false,
-              "string": "Skill",
+              "string": "Skills",
               "font": "",
               "textAlignment": "left",
               "characterSize": 20,
@@ -6070,6 +6072,30 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "code_input",
+          "tags": "",
+          "type": "TextInput::TextInputObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "initialValue": "",
+            "placeholder": "Touch to start typing",
+            "fontResourceName": "",
+            "fontSize": 20,
+            "inputType": "text area",
+            "textColor": "0;0;0",
+            "fillColor": "255;255;255",
+            "fillOpacity": 255,
+            "borderColor": "0;0;0",
+            "borderOpacity": 255,
+            "borderWidth": 1,
+            "readOnly": false,
+            "disabled": false
+          }
         }
       ],
       "events": [
@@ -6711,6 +6737,20 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "objects.forEach(object => {",
+                    "    let code_input = object",
+                    "",
+                    "    ",
+                    "})",
+                    ""
+                  ],
+                  "parameterObjects": "code_input",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
                 }
               ]
             }
@@ -6761,16 +6801,44 @@
               "actions": [
                 {
                   "type": {
-                    "value": "PopScene"
+                    "value": "Scene"
                   },
                   "parameters": [
-                    ""
+                    "",
+                    "\"Overworld\"",
+                    "yes"
                   ]
                 }
               ]
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Tab"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextInput::TextInputObject::SetText"
+              },
+              "parameters": [
+                "code_input",
+                "=",
+                "code_input.Text() + \"   \"   "
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -6881,7 +6949,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4737912745089311,
+        "zoomFactor": 0.7291666666666666,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6895,7 +6963,7 @@
           "name": "email_input",
           "persistentUuid": "e94b25cc-6d34-4ddc-9532-2de0a6df8f11",
           "width": 259,
-          "x": 345,
+          "x": 346,
           "y": 280,
           "zOrder": 2,
           "numberProperties": [],
@@ -6937,7 +7005,7 @@
           "customSize": true,
           "height": 42,
           "layer": "",
-          "name": "Login_button",
+          "name": "Login_buttonx",
           "persistentUuid": "793a7018-1ae8-4fb1-9745-67cd8ae64995",
           "width": 265,
           "x": 340,
@@ -7209,7 +7277,7 @@
         },
         {
           "assetStoreId": "b6e192c68f93de7846e94964878d4edf7b8071a1e295788658c044e70aff7543",
-          "name": "Login_button",
+          "name": "Login_buttonx",
           "tags": "",
           "type": "PanelSpriteButton::PanelSpriteButton",
           "variables": [],
@@ -7295,59 +7363,7 @@
           "animations": []
         }
       ],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-              },
-              "parameters": [
-                "Login_button",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarObjetTxt"
-              },
-              "parameters": [
-                "email_input",
-                "email_input",
-                "=",
-                "GlobalVariableString(username)"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarObjetTxt"
-              },
-              "parameters": [
-                "password_input",
-                "password_input",
-                "=",
-                "GlobalVariableString(password)"
-              ]
-            },
-            {
-              "type": {
-                "value": "SendAsyncRequest"
-              },
-              "parameters": [
-                "\"http://127.0.0.1:5001/login\"",
-                "GlobalVarToJSON(username) +\nGlobalVarToJSON(password)",
-                "\"POST\"",
-                "\"application/json\"",
-                "",
-                ""
-              ]
-            }
-          ]
-        }
-      ],
+      "events": [],
       "layers": [
         {
           "ambientLightColorB": 9405192,
