@@ -747,7 +747,20 @@
     }
   ],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "username",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "folded": true,
+      "name": "password",
+      "type": "string",
+      "value": ""
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -6734,7 +6747,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7291666666666666,
+        "zoomFactor": 0.4737912745089311,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6748,7 +6761,7 @@
           "name": "email_input",
           "persistentUuid": "e94b25cc-6d34-4ddc-9532-2de0a6df8f11",
           "width": 259,
-          "x": 346,
+          "x": 345,
           "y": 280,
           "zOrder": 2,
           "numberProperties": [],
@@ -6790,7 +6803,7 @@
           "customSize": true,
           "height": 42,
           "layer": "",
-          "name": "Login_buttonx",
+          "name": "Login_button",
           "persistentUuid": "793a7018-1ae8-4fb1-9745-67cd8ae64995",
           "width": 265,
           "x": 340,
@@ -7062,7 +7075,7 @@
         },
         {
           "assetStoreId": "b6e192c68f93de7846e94964878d4edf7b8071a1e295788658c044e70aff7543",
-          "name": "Login_buttonx",
+          "name": "Login_button",
           "tags": "",
           "type": "PanelSpriteButton::PanelSpriteButton",
           "variables": [],
@@ -7148,7 +7161,59 @@
           "animations": []
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "Login_button",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "email_input",
+                "email_input",
+                "=",
+                "GlobalVariableString(username)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "password_input",
+                "password_input",
+                "=",
+                "GlobalVariableString(password)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"http://127.0.0.1:5001/login\"",
+                "GlobalVarToJSON(username) +\nGlobalVarToJSON(password)",
+                "\"POST\"",
+                "\"application/json\"",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 9405192,
