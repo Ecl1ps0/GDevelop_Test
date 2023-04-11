@@ -698,6 +698,15 @@
         "name": "ConsoleBack",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Border.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -745,7 +754,7 @@
       "name": "TextBorder",
       "rightMargin": 16,
       "tags": "",
-      "texture": "Border.png",
+      "texture": "assets\\Border.png",
       "tiled": true,
       "topMargin": 16,
       "type": "PanelSpriteObject::PanelSprite",
@@ -4681,7 +4690,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Dialogue",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5174,15 +5182,14 @@
       "variables": [
         {
           "folded": true,
-          "name": "answerIsRight",
-          "type": "boolean",
-          "value": false
-        },
-        {
-          "folded": true,
-          "name": "commentToAnswer",
+          "name": "answerJSON",
           "type": "string",
           "value": ""
+        },
+        {
+          "name": "answer",
+          "type": "structure",
+          "children": []
         }
       ],
       "instances": [
@@ -6401,25 +6408,131 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "State",
-                        "=",
-                        "\"PlayPlayerAttack\""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "SendAsyncRequest"
                       },
                       "parameters": [
-                        "",
-                        "",
+                        "\"http://10.202.11.111:12347/rightAnswer\"",
+                        "\"some\"",
                         "\"POST\"",
                         "",
-                        "",
+                        "answerJSON",
                         ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VarSceneTxt"
+                          },
+                          "parameters": [
+                            "answerJSON",
+                            "!=",
+                            "\"0\""
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "DebuggerTools::ConsoleLog"
+                              },
+                              "parameters": [
+                                "ToJSON(answerJSON)",
+                                "\"error\"",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "JSONToVariableStructure"
+                              },
+                              "parameters": [
+                                "VariableString(answerJSON.value)",
+                                "answer"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "DebuggerTools::ConsoleLog"
+                              },
+                              "parameters": [
+                                "VariableString(answer.status)",
+                                "",
+                                ""
+                              ]
+                            }
+                          ],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "SceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "answer.status",
+                                    "True"
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "State",
+                                    "=",
+                                    "\"AnswerIsRight\""
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "SceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "answer.status",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "State",
+                                    "=",
+                                    "\"AnswerIsWrong\""
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -6477,7 +6590,7 @@
                   "parameters": [
                     "State",
                     "=",
-                    "\"PlayPlayerAttack\""
+                    "\"AnswerIsRight\""
                   ]
                 }
               ],
