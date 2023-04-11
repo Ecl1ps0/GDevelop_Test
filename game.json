@@ -376,7 +376,7 @@
         "alwaysLoaded": false,
         "file": "assets/Border.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/Border.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "metadata": "",
         "name": "Border.png",
         "smoothed": false,
         "userAdded": false
@@ -692,12 +692,1542 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/ConsoleBack.png",
+        "file": "demon_idle_1.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "ConsoleBack",
+        "metadata": "",
+        "name": "demon_idle_1.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_idle_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_idle_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_idle_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_idle_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_idle_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_14.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_cleave_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_cleave_15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_12.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_18.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_19.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_20.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_21.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "demon_death_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "demon_death_22.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight .png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight ",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fight 15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fight 15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Death22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Death22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile Wakeup_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile Wakeup_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/1b3c760456c5166f849cc73cbc53e9e59f3d33c2cdf96ed690d0e51af9acd169_Skeleton_Bone Pile Wakeup_1.png",
+          "name": "Skeleton_Bone Pile Wakeup_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile Wakeup_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile Wakeup_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/6d737b541baade4ca48a44eb5cb59941160c949498067aaae6d4c983382281ed_Skeleton_Bone Pile Wakeup_2.png",
+          "name": "Skeleton_Bone Pile Wakeup_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile Wakeup_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile Wakeup_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/d241d90038b2c5569f62fcacca63085fdf08ce35a6893a077231876730daf1ce_Skeleton_Bone Pile Wakeup_3.png",
+          "name": "Skeleton_Bone Pile Wakeup_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile Wakeup_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile Wakeup_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/24c54252a5d02384ac60ac052f68c8ae34add40c6c25a2630a7369415ae8f229_Skeleton_Bone Pile Wakeup_4.png",
+          "name": "Skeleton_Bone Pile Wakeup_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile Wakeup_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile Wakeup_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/fa20cbd9cb2ceca643fcf9753be45a536274fe2e65a65eb59371194372fdab75_Skeleton_Bone Pile Wakeup_5.png",
+          "name": "Skeleton_Bone Pile Wakeup_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile Wakeup_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile Wakeup_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/924ba78b8e735a8235a4c05465d8c50a6c463f92275b8cb892b5bd836ae342e1_Skeleton_Bone Pile Wakeup_6.png",
+          "name": "Skeleton_Bone Pile Wakeup_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile Wakeup_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile Wakeup_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/75d9d926bf67e7a800bf7c241bde71b327f43d8ffa936d66b48689853ab3ead4_Skeleton_Bone Pile Wakeup_7.png",
+          "name": "Skeleton_Bone Pile Wakeup_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Pile.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Pile.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/9418b63d910c29bc8042c274eef153561b5e69dc15c7d63f09bbbf1caeb75dd3_Skeleton_Bone Pile.png",
+          "name": "Skeleton_Bone Pile.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Toss_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Toss_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/e309312f164c06a08f36049e52141cb56311085efc2cda0ee2e85a7534074106_Skeleton_Bone Toss_1.png",
+          "name": "Skeleton_Bone Toss_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Toss_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Toss_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/8d582ccc5e892ef489aa420cd05752eb4e924c64fa88a5e0d23d80da093cd7aa_Skeleton_Bone Toss_2.png",
+          "name": "Skeleton_Bone Toss_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Toss_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Toss_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/9899c8212e28229c2a836565f7376956ed51d639a4a6fa8bddd9b9cd96ad9236_Skeleton_Bone Toss_3.png",
+          "name": "Skeleton_Bone Toss_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Toss_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Toss_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/ec9f7a9a4dc8250c65e66553aa5be734d54171d8dfabb3662424f239a855c92d_Skeleton_Bone Toss_4.png",
+          "name": "Skeleton_Bone Toss_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Bone Toss_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Bone Toss_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/5a73ef09ce2be4f69ce2be695ce9072ed3d5645a6ca1a48158c2a834379470e0_Skeleton_Bone Toss_5.png",
+          "name": "Skeleton_Bone Toss_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Crumbling Into Bone Pile_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/24c54252a5d02384ac60ac052f68c8ae34add40c6c25a2630a7369415ae8f229_Skeleton_Crumbling Into Bone Pile_1.png",
+          "name": "Skeleton_Crumbling Into Bone Pile_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Crumbling Into Bone Pile_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/612107f9a298bb8d6542b3c742ae14eb3709b7c8b45a9c1074dedd7de41451b3_Skeleton_Crumbling Into Bone Pile_2.png",
+          "name": "Skeleton_Crumbling Into Bone Pile_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Crumbling Into Bone Pile_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/d241d90038b2c5569f62fcacca63085fdf08ce35a6893a077231876730daf1ce_Skeleton_Crumbling Into Bone Pile_3.png",
+          "name": "Skeleton_Crumbling Into Bone Pile_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Crumbling Into Bone Pile_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/6d737b541baade4ca48a44eb5cb59941160c949498067aaae6d4c983382281ed_Skeleton_Crumbling Into Bone Pile_4.png",
+          "name": "Skeleton_Crumbling Into Bone Pile_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Crumbling Into Bone Pile_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/1b3c760456c5166f849cc73cbc53e9e59f3d33c2cdf96ed690d0e51af9acd169_Skeleton_Crumbling Into Bone Pile_5.png",
+          "name": "Skeleton_Crumbling Into Bone Pile_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Crumbling Into Bone Pile_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/8f1336f236b480ea0d073acca6b42113d239b7dc87b4edbd2088c4901f611517_Skeleton_Crumbling Into Bone Pile_6.png",
+          "name": "Skeleton_Crumbling Into Bone Pile_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Crumbling Into Bone Pile_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Crumbling Into Bone Pile_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/1b3c760456c5166f849cc73cbc53e9e59f3d33c2cdf96ed690d0e51af9acd169_Skeleton_Crumbling Into Bone Pile_7.png",
+          "name": "Skeleton_Crumbling Into Bone Pile_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Hurt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Hurt_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/5c035ea074e0901fd64096aa944ff25a392b30a7790af266bd28fa5e3fb5e977_Skeleton_Hurt_1.png",
+          "name": "Skeleton_Hurt_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Hurt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Hurt_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/2d6ec6b5038df6a340854060f7cd4bac9f461832b798c453ea701f62a91035ac_Skeleton_Hurt_2.png",
+          "name": "Skeleton_Hurt_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Inactive.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Inactive.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/3555e76b06fa274109c760db921623040f3ee0c029b356609a952bc454d40d64_Skeleton_Inactive.png",
+          "name": "Skeleton_Inactive.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Jumping.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Jumping.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/867719d2134841c600fa267f1f51eb185fbc553bffece9a354c79d71c9f67539_Skeleton_Jumping.png",
+          "name": "Skeleton_Jumping.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Landed_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Landed_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/f61ed22b4d0a44b7625751bc4b3d747c5161ef694ae8b2e7bf23a72ec98c100a_Skeleton_Landed_1.png",
+          "name": "Skeleton_Landed_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Landed_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Landed_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/c8eacfaa024cf7b495103b21df3d319240e74b4faf5f0a350b92226b3894aae0_Skeleton_Landed_2.png",
+          "name": "Skeleton_Landed_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Limping Movement_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/75d9d926bf67e7a800bf7c241bde71b327f43d8ffa936d66b48689853ab3ead4_Skeleton_Limping Movement_1.png",
+          "name": "Skeleton_Limping Movement_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Limping Movement_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/ccdcf8cae072495419290eae7f628f863433929b7ac892da29fb30425d76c756_Skeleton_Limping Movement_2.png",
+          "name": "Skeleton_Limping Movement_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Limping Movement_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/acd8deea65d453fb5eb0cb8e238bb72deb805ead85dbe37aa8a7a4156c19421a_Skeleton_Limping Movement_3.png",
+          "name": "Skeleton_Limping Movement_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Limping Movement_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/c7f12893176cf04cf1f22a5af6bb861d3c171f3ce5c8c91ec68c37d7a0b165ff_Skeleton_Limping Movement_4.png",
+          "name": "Skeleton_Limping Movement_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Limping Movement_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/0745bdb774cd4b1b0065ce177460470f6b280cf9cd060e641d073d2af6eb2bc4_Skeleton_Limping Movement_5.png",
+          "name": "Skeleton_Limping Movement_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Limping Movement_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/a729443c23bb1c2530bb0706534946392b23499d36da880f5fd3b267ab824bf9_Skeleton_Limping Movement_6.png",
+          "name": "Skeleton_Limping Movement_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Preparing Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Preparing Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/924ba78b8e735a8235a4c05465d8c50a6c463f92275b8cb892b5bd836ae342e1_Skeleton_Preparing Jump_1.png",
+          "name": "Skeleton_Preparing Jump_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Preparing Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Preparing Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/1cbf17bb15d15c92e294d7d5d91462e1b5550caa80348d52a6f45caa933e4f88_Skeleton_Preparing Jump_2.png",
+          "name": "Skeleton_Preparing Jump_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Preparing Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Preparing Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/b59d4a2f1523ce309552643161b9b5f58ddb07490b6e377c98f19e5be4d18332_Skeleton_Preparing Jump_3.png",
+          "name": "Skeleton_Preparing Jump_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/75d9d926bf67e7a800bf7c241bde71b327f43d8ffa936d66b48689853ab3ead4_Skeleton_Standing Idle_1.png",
+          "name": "Skeleton_Standing Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/e07042a1486d41f94c39ae5d7433ab4328bfae9926f9e45157ceacf44d2fe076_Skeleton_Standing Idle_2.png",
+          "name": "Skeleton_Standing Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/59b4c2cef23b828a25432ccbc3444c0377003b3d7b4403b76d1fa916b2694f4a_Skeleton_Standing Idle_3.png",
+          "name": "Skeleton_Standing Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/aa5aec0a4c519ab1c59977c5363736fa8d4000629cc0bbf13b866ca37b54419d_Skeleton_Standing Idle_4.png",
+          "name": "Skeleton_Standing Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/b380f967eaf8674f15b278338c7f4c41baf6f3b41ca782ccbf6a4b5579e77769_Skeleton_Standing Idle_5.png",
+          "name": "Skeleton_Standing Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/288f3bde72d9da5a430c0a423e077a9784296a57216a1a5eac9ce0fbe88a530d_Skeleton_Standing Idle_6.png",
+          "name": "Skeleton_Standing Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/b8e93a5426fe815886fc94db7879b42cdf12b04b2decd41918183ca3367040bd_Skeleton_Standing Idle_7.png",
+          "name": "Skeleton_Standing Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/9584bb4c95078ec48901d8810a0ae0a92422609d0bf61be25fec397ccdb5b411_Skeleton_Standing Idle_8.png",
+          "name": "Skeleton_Standing Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/924ba78b8e735a8235a4c05465d8c50a6c463f92275b8cb892b5bd836ae342e1_Skeleton_Standing Idle_9.png",
+          "name": "Skeleton_Standing Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Wakeup_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Wakeup_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/9584bb4c95078ec48901d8810a0ae0a92422609d0bf61be25fec397ccdb5b411_Skeleton_Standing Wakeup_1.png",
+          "name": "Skeleton_Standing Wakeup_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Wakeup_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Wakeup_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/924ba78b8e735a8235a4c05465d8c50a6c463f92275b8cb892b5bd836ae342e1_Skeleton_Standing Wakeup_2.png",
+          "name": "Skeleton_Standing Wakeup_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing Wakeup_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing Wakeup_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/75d9d926bf67e7a800bf7c241bde71b327f43d8ffa936d66b48689853ab3ead4_Skeleton_Standing Wakeup_3.png",
+          "name": "Skeleton_Standing Wakeup_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Standing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Standing.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/1f5dce5096db09cc4094232933ad5a9a6d67eb8f5d3cb1f88deee58c3607cc2b_Skeleton_Standing.png",
+          "name": "Skeleton_Standing.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Twitching Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Twitching Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/75d9d926bf67e7a800bf7c241bde71b327f43d8ffa936d66b48689853ab3ead4_Skeleton_Twitching Idle_1.png",
+          "name": "Skeleton_Twitching Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Twitching Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Twitching Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/6f2921a9179f11ff0c4014856a99a389c18f05ccf0b5904986f3762f26ce46c0_Skeleton_Twitching Idle_2.png",
+          "name": "Skeleton_Twitching Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Twitching Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Twitching Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/75d9d926bf67e7a800bf7c241bde71b327f43d8ffa936d66b48689853ab3ead4_Skeleton_Twitching Idle_3.png",
+          "name": "Skeleton_Twitching Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Twitching Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skeleton_Twitching Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/6748661ae7bb25e24db7090dbea39911d799c7b83ae22c65ca9126eec3f7f66d_Skeleton_Twitching Idle_4.png",
+          "name": "Skeleton_Twitching Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button With Shadow_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button With Shadow_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/3cfcef451f366e0586d68ae863db979bdeb2ec9453290b236ba3a1fbf19db418_Green Button With Shadow_Hovered.png",
+          "name": "Green Button With Shadow_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button With Shadow_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button With Shadow_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/63f468aa943eb440db683045192c88a94de99bd6e3aa5fc0afc3d93dd8d39324_Green Button With Shadow_Idle.png",
+          "name": "Green Button With Shadow_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Button With Shadow_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Button With Shadow_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/3c957fd6edd0a38bee1807034ca83d582216e6e2f48058e413979f8b1f504e8b_Green Button With Shadow_Pressed.png",
+          "name": "Green Button With Shadow_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/CantoraOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "CantoraOne-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
+          "name": "CantoraOne-Regular.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Shadow_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Shadow_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4a64488d212c7a69721b3ac48319e64bc830f5663535fdafb18e2fc907e8d10a_Purple Button With Shadow_Hovered.png",
+          "name": "Purple Button With Shadow_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Shadow_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Shadow_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e44a40d67427b4e53751fc82b5ad4d87b2daf311558dcf0151cd1b173b7e5dcf_Purple Button With Shadow_Idle.png",
+          "name": "Purple Button With Shadow_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Shadow_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Shadow_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/04a69986487fb427759132f3807a28db0f3b845623d5ba34d063f46a9ee22f63_Purple Button With Shadow_Pressed.png",
+          "name": "Purple Button With Shadow_Pressed.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -756,7 +2286,30 @@
     }
   ],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "username",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "folded": true,
+      "name": "password",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "LoginRequest",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "LoginRequestError",
+      "type": "string",
+      "value": ""
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -778,7 +2331,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 1.1046105142836782,
+        "zoomFactor": 2.704529529007083,
         "windowMask": false
       },
       "objectsGroups": [
@@ -817,14 +2370,7 @@
           ]
         }
       ],
-      "variables": [
-        {
-          "folded": true,
-          "name": "message",
-          "type": "string",
-          "value": ""
-        }
-      ],
+      "variables": [],
       "instances": [
         {
           "angle": 0,
@@ -2670,6 +4216,96 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "layer": "",
+          "name": "DemonCleave",
+          "persistentUuid": "53d76bdf-d7a4-4404-8d0c-426495dabf8f",
+          "width": 35,
+          "x": 569,
+          "y": 106,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "a433b81a-ab97-446a-be15-6c54b13b58c3",
+          "width": 32,
+          "x": 571,
+          "y": 124,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Skeleton",
+          "persistentUuid": "45eaa082-5ead-471f-9e33-9da0715493ca",
+          "width": 0,
+          "x": 574,
+          "y": 209,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 22,
+          "layer": "Collision",
+          "name": "CollisionDetect",
+          "persistentUuid": "c620dfa8-c71e-4c32-bf15-ae365e6354e7",
+          "width": 32,
+          "x": 573,
+          "y": 220,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "E",
+          "persistentUuid": "e7ed48cd-8cbb-404d-bc00-72b853833951",
+          "width": 0,
+          "x": 586,
+          "y": 206,
+          "zOrder": 2001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "E",
+          "persistentUuid": "ca176f0e-d4a2-4a1c-ba5b-af22a6fe6f08",
+          "width": 0,
+          "x": 581,
+          "y": 107,
+          "zOrder": 2002,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -3318,6 +4954,788 @@
                           }
                         ]
                       ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "DemonCleave",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.14,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Fight ",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.14,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight ",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fight 15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Death",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.14,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Death22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -4119,6 +6537,1070 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "adab978168a4868cc90b2aa8ab3dc22ccf38a010e5430258c8e1d30f870eb96d",
+          "name": "Skeleton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.6,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Hurt_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Hurt_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bone Pile Wakeup",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1429,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile Wakeup_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile Wakeup_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile Wakeup_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile Wakeup_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile Wakeup_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile Wakeup_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile Wakeup_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bone Pile",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Pile.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bone Toss",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Toss_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Toss_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Toss_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Toss_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Bone Toss_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Crumbling Into Bone Pile",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1429,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Crumbling Into Bone Pile_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Crumbling Into Bone Pile_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Crumbling Into Bone Pile_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Crumbling Into Bone Pile_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Crumbling Into Bone Pile_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Crumbling Into Bone Pile_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Crumbling Into Bone Pile_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Inactive",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Inactive.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jumping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Jumping.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Landed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Landed_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Landed_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Limping Movement",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Limping Movement_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Limping Movement_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Limping Movement_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Limping Movement_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Limping Movement_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Limping Movement_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Preparing Jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Preparing Jump_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Preparing Jump_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Preparing Jump_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Standing Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1111,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Standing Wakeup",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Wakeup_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Wakeup_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing Wakeup_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Standing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Standing.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Twitching Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Twitching Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Twitching Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Twitching Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Skeleton_Twitching Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -4343,6 +7825,26 @@
                         "Player",
                         "w"
                       ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "a"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "d"
+                      ]
                     }
                   ],
                   "actions": [
@@ -4362,58 +7864,6 @@
                       "parameters": [
                         "Player",
                         "\"Up\""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "a"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "TopDownMovementBehavior::SimulateLeftKey"
-                          },
-                          "parameters": [
-                            "Player",
-                            "TopDownMovement"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "d"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "TopDownMovementBehavior::SimulateRightKey"
-                          },
-                          "parameters": [
-                            "Player",
-                            "TopDownMovement"
-                          ]
-                        }
                       ]
                     }
                   ]
@@ -4450,58 +7900,6 @@
                         "\"Down\""
                       ]
                     }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "a"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "TopDownMovementBehavior::SimulateLeftKey"
-                          },
-                          "parameters": [
-                            "Player",
-                            "TopDownMovement"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyPressed"
-                          },
-                          "parameters": [
-                            "",
-                            "d"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "TopDownMovementBehavior::SimulateRightKey"
-                          },
-                          "parameters": [
-                            "Player",
-                            "TopDownMovement"
-                          ]
-                        }
-                      ]
-                    }
                   ]
                 },
                 {
@@ -4514,26 +7912,6 @@
                       "parameters": [
                         "Player",
                         "d"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "w"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
                       ]
                     }
                   ],
@@ -4556,6 +7934,42 @@
                         "\"Right\""
                       ]
                     }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "w",
+                            "w"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TopDownMovementBehavior::SimulateUpKey"
+                          },
+                          "parameters": [
+                            "Player",
+                            "TopDownMovement"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"Up\""
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
@@ -4568,26 +7982,6 @@
                       "parameters": [
                         "Player",
                         "a"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "w"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "s"
                       ]
                     }
                   ],
@@ -4681,7 +8075,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Dialogue",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4719,11 +8112,41 @@
                 },
                 {
                   "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "Player",
+                        "NPC",
+                        "20",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "Player",
+                        "DemonCleave",
+                        "20",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Distance"
                   },
                   "parameters": [
                     "Player",
-                    "NPC",
+                    "Skeleton",
                     "20",
                     ""
                   ]
@@ -5000,45 +8423,6 @@
             }
           ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyReleased"
-              },
-              "parameters": [
-                "",
-                "Space"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SendAsyncRequest"
-              },
-              "parameters": [
-                "\"http://192.168.43.50:12347\"",
-                "\"FUCK YOU!\"",
-                "\"GET\"",
-                "",
-                "message",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "DebuggerTools::ConsoleLog"
-              },
-              "parameters": [
-                "VariableString(message)",
-                "",
-                ""
-              ]
-            }
-          ]
         }
       ],
       "layers": [
@@ -5143,7 +8527,7 @@
       "title": "",
       "v": 146,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -5151,9 +8535,9 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.2,
-        "snap": true,
-        "zoomFactor": 0.9510227036738135,
-        "windowMask": true
+        "snap": false,
+        "zoomFactor": 0.9199999999999938,
+        "windowMask": false
       },
       "objectsGroups": [
         {
@@ -5163,7 +8547,7 @@
               "name": "Attack1"
             },
             {
-              "name": "Console"
+              "name": "Attack2"
             },
             {
               "name": "Run"
@@ -5171,20 +8555,7 @@
           ]
         }
       ],
-      "variables": [
-        {
-          "folded": true,
-          "name": "answerIsRight",
-          "type": "boolean",
-          "value": false
-        },
-        {
-          "folded": true,
-          "name": "commentToAnswer",
-          "type": "string",
-          "value": ""
-        }
-      ],
+      "variables": [],
       "instances": [
         {
           "angle": 0,
@@ -5234,13 +8605,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 545,
+          "height": 160,
           "layer": "Dialogue",
           "name": "TextBorder",
           "persistentUuid": "3eda7dbd-af4a-4a6f-a7d9-d9e294bbc3aa",
-          "width": 432,
-          "x": 529,
-          "y": -2,
+          "width": 896,
+          "x": 32,
+          "y": 352,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -5254,8 +8625,8 @@
           "name": "Attack1",
           "persistentUuid": "7dc38f8a-b2d4-4716-96cc-cfda55183779",
           "width": 128,
-          "x": 580,
-          "y": 370,
+          "x": 80,
+          "y": 368,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -5266,11 +8637,11 @@
           "customSize": true,
           "height": 32,
           "layer": "Dialogue",
-          "name": "Console",
+          "name": "Attack2",
           "persistentUuid": "be19237c-cdfd-46d6-9f03-ac226e9a3f61",
           "width": 128,
-          "x": 780,
-          "y": 370,
+          "x": 80,
+          "y": 416,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -5284,8 +8655,8 @@
           "name": "Run",
           "persistentUuid": "d0d0038e-afed-4b66-afad-9eb83d409837",
           "width": 128,
-          "x": 675,
-          "y": 440,
+          "x": 80,
+          "y": 464,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5294,13 +8665,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 60,
+          "height": 128,
           "layer": "Dialogue",
           "name": "Dialogue",
           "persistentUuid": "1d6dd4c3-a14e-4637-b8ba-6dad23785fdd",
-          "width": 426,
-          "x": 537,
-          "y": 5,
+          "width": 624,
+          "x": 256,
+          "y": 368,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -5362,51 +8733,6 @@
           "x": 610,
           "y": 275,
           "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 539,
-          "layer": "",
-          "name": "code_input",
-          "persistentUuid": "a4bd8cd1-79f1-4655-919a-e141bc094a06",
-          "width": 530,
-          "x": -1,
-          "y": -2,
-          "zOrder": 14,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 540,
-          "layer": "",
-          "name": "codeInput",
-          "persistentUuid": "fad668f3-3097-4623-b343-4e52b222bdc8",
-          "width": 530,
-          "x": 0,
-          "y": 0,
-          "zOrder": 15,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "ConsoleWindow",
-          "persistentUuid": "3a09a8b6-024c-4d2a-aaf9-a4fc355f96b3",
-          "width": 0,
-          "x": 619,
-          "y": 201,
-          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5740,14 +9066,14 @@
             }
           ],
           "content": {
-            "text": "The battle begins.[color=red]hide[/color]",
+            "text": "The battle begins.",
             "opacity": 255,
-            "scale": 1,
+            "scale": 2,
             "fontSize": 20,
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
             "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited.png",
-            "align": "center",
+            "align": "left",
             "wordWrap": true
           }
         },
@@ -5920,7 +9246,7 @@
               "underlined": false,
               "string": "Attack",
               "font": "",
-              "textAlignment": "center",
+              "textAlignment": "left",
               "characterSize": 20,
               "color": {
                 "b": 255,
@@ -5942,7 +9268,7 @@
         },
         {
           "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
-          "name": "Console",
+          "name": "Attack2",
           "tags": "",
           "type": "PanelSpriteButton::PanelSpriteButton",
           "variables": [],
@@ -5983,9 +9309,9 @@
               "italic": false,
               "smoothed": true,
               "underlined": false,
-              "string": "Console",
+              "string": "Skill",
               "font": "",
-              "textAlignment": "center",
+              "textAlignment": "left",
               "characterSize": 20,
               "color": {
                 "b": 255,
@@ -6050,7 +9376,7 @@
               "underlined": false,
               "string": "Run",
               "font": "",
-              "textAlignment": "center",
+              "textAlignment": "left",
               "characterSize": 20,
               "color": {
                 "b": 255,
@@ -6124,92 +9450,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "codeInput",
-          "tags": "",
-          "type": "TextInput::TextInputObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "initialValue": "",
-            "placeholder": "Touch to start typing",
-            "fontResourceName": "",
-            "fontSize": 20,
-            "inputType": "text area",
-            "textColor": "235;235;235",
-            "fillColor": "53;53;53",
-            "fillOpacity": 200,
-            "borderColor": "0;0;0",
-            "borderOpacity": 255,
-            "borderWidth": 1,
-            "readOnly": false,
-            "disabled": false
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewBBText",
-          "tags": "",
-          "type": "BBText::BBText",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
-            "opacity": 255,
-            "fontSize": 20,
-            "visible": true,
-            "color": "0;0;0",
-            "fontFamily": "Arial",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "ConsoleText",
-          "tags": "",
-          "type": "BBText::BBText",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "[b]bold[/b] [i]italic[/i] [size=15]smaller[/size] [font=times]times[/font] font\n[spacing=12]spaced out[/spacing]\n[outline=yellow]outlined[/outline] [shadow=red]DropShadow[/shadow] ",
-            "opacity": 255,
-            "fontSize": 20,
-            "visible": true,
-            "color": "255;255;255",
-            "fontFamily": "Arial",
-            "align": "left",
-            "wordWrap": true
-          }
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite",
-          "tags": "",
-          "texture": "",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "ConsoleBackground",
-          "tags": "",
-          "texture": "ConsoleBack",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
         }
       ],
       "events": [
@@ -6362,12 +9602,34 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsHovered"
+                  },
+                  "parameters": [
+                    "Button",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
                 }
               ],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "HoverSound.wav",
+                    "",
+                    "20",
+                    "RandomFloatInRange(0.8,0.9)"
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -6407,60 +9669,6 @@
                         "State",
                         "=",
                         "\"PlayPlayerAttack\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SendAsyncRequest"
-                      },
-                      "parameters": [
-                        "",
-                        "",
-                        "\"POST\"",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                      },
-                      "parameters": [
-                        "Console",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                      },
-                      "parameters": [
-                        "Run",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Overworld\"",
-                        "yes"
                       ]
                     }
                   ]
@@ -6883,20 +10091,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": [
-                    "objects.forEach(object => {",
-                    "    let code_input = object",
-                    "",
-                    "    ",
-                    "})",
-                    ""
-                  ],
-                  "parameterObjects": "code_input",
-                  "useStrict": true,
-                  "eventsSheetExpanded": false
                 }
               ]
             }
@@ -6947,12 +10141,10 @@
               "actions": [
                 {
                   "type": {
-                    "value": "Scene"
+                    "value": "PopScene"
                   },
                   "parameters": [
-                    "",
-                    "\"Overworld\"",
-                    "yes"
+                    ""
                   ]
                 }
               ]
@@ -7016,17 +10208,6 @@
           "visibility": true,
           "cameras": [],
           "effects": []
-        },
-        {
-          "ambientLightColorB": 1,
-          "ambientLightColorG": 6068864,
-          "ambientLightColorR": 12134632,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "Layer",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
         }
       ],
       "behaviorsSharedData": [
@@ -7080,7 +10261,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7291666666666666,
+        "zoomFactor": 0.7791712547654572,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7094,7 +10275,7 @@
           "name": "email_input",
           "persistentUuid": "e94b25cc-6d34-4ddc-9532-2de0a6df8f11",
           "width": 259,
-          "x": 346,
+          "x": 345,
           "y": 280,
           "zOrder": 2,
           "numberProperties": [],
@@ -7136,7 +10317,7 @@
           "customSize": true,
           "height": 42,
           "layer": "",
-          "name": "Login_buttonx",
+          "name": "Login_button",
           "persistentUuid": "793a7018-1ae8-4fb1-9745-67cd8ae64995",
           "width": 265,
           "x": 340,
@@ -7179,13 +10360,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 576,
+          "height": 588,
           "layer": "",
           "name": "PurpleBackground",
           "persistentUuid": "ab84c4e8-6a52-4cc4-935c-122d15a1bfd7",
-          "width": 374,
-          "x": 291,
-          "y": -22,
+          "width": 392,
+          "x": 281,
+          "y": -24,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -7245,7 +10426,7 @@
             "fontSize": 16,
             "inputType": "email",
             "textColor": "255;255;255",
-            "fillColor": "0;0;0",
+            "fillColor": "15;10;30",
             "fillOpacity": 255,
             "borderColor": "35;36;37",
             "borderOpacity": 255,
@@ -7267,9 +10448,9 @@
             "placeholder": "Password",
             "fontResourceName": "",
             "fontSize": 16,
-            "inputType": "email",
+            "inputType": "password",
             "textColor": "255;255;255",
-            "fillColor": "0;0;0",
+            "fillColor": "15;10;30",
             "fillOpacity": 255,
             "borderColor": "35;36;37",
             "borderOpacity": 255,
@@ -7408,7 +10589,7 @@
         },
         {
           "assetStoreId": "b6e192c68f93de7846e94964878d4edf7b8071a1e295788658c044e70aff7543",
-          "name": "Login_buttonx",
+          "name": "Login_button",
           "tags": "",
           "type": "PanelSpriteButton::PanelSpriteButton",
           "variables": [],
@@ -7481,23 +10662,347 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "Login_button",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "email_input",
+                "email_input",
+                "=",
+                "GlobalVariableString(username)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "password_input",
+                "password_input",
+                "=",
+                "GlobalVariableString(password)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"http://127.0.0.1:5001/login\"",
+                "\"{\\\"username\\\": \\\"GlobalVarToJSON(username)\\\", \\\"password\\\": \\\"GlobalVarToJSON(password)\\\"}\"",
+                "\"POST\"",
+                "\"application/json\"",
+                "loginResponse",
+                "loginResponseError"
+              ]
+            },
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "VariableString(loginResponse)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "VariableString(loginResponseError)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Overworld\"",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarSceneTxt"
+                  },
+                  "parameters": [
+                    "loginResponse",
+                    "=",
+                    "\"200\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Overworld\"",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "assetStoreId": "",
-          "name": "NewSprite2",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 9405192,
+          "ambientLightColorG": 150995054,
+          "ambientLightColorR": 1869182049,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Choose_32Path",
+      "name": "Choose Path",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.9827755090658702,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 61,
+          "layer": "",
+          "name": "GreenButtonWithShadow",
+          "persistentUuid": "924b763e-e60c-43a8-8e09-91d9e65300aa",
+          "width": 194,
+          "x": 215,
+          "y": 242,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "PurpleButtonWithShadow",
+          "persistentUuid": "2b8d1fff-6b03-4910-a667-7d1109c5349f",
+          "width": 0,
+          "x": 556,
+          "y": 239,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "569b45d3c7c34f7706563239938d04ca599016ff9857ee38c945c72330d4339e",
+          "name": "GreenButtonWithShadow",
           "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
+          "type": "PanelSpriteButton::PanelSpriteButton",
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "animations": []
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 3,
+            "BottomPadding": 32,
+            "TopPadding": 32,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button With Shadow_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button With Shadow_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "BUTTON",
+              "font": "CantoraOne-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Green Button With Shadow_Pressed.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "a48315b9a9c655af87118d7bb8f6be03b4dbb14e066387849b2d2d4c3600573c",
+          "name": "PurpleButtonWithShadow",
+          "tags": "",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 3,
+            "BottomPadding": 32,
+            "TopPadding": 32,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Purple Button With Shadow_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Purple Button With Shadow_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "BUTTON",
+              "font": "CantoraOne-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 69,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Purple Button With Shadow_Pressed.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            }
+          }
         }
       ],
       "events": [],
       "layers": [
         {
-          "ambientLightColorB": 9405192,
+          "ambientLightColorB": 12231440,
           "ambientLightColorG": 150995054,
           "ambientLightColorR": 1869182049,
           "followBaseLayerCamera": false,
